@@ -35,7 +35,6 @@ requests
 
 ## Screenshots
 
-![Image](https://github.com/user-attachments/assets/bf76ead6-ea91-47a9-a5a8-12d81bed7480)
 ![Image](https://github.com/user-attachments/assets/b323e050-9268-4fe7-98ed-686a3b3f7bfa)
 ![Image](https://github.com/user-attachments/assets/d16e982b-b8e4-4455-9483-bd82642b64e6)
 ![Image](https://github.com/user-attachments/assets/49bb29dd-782d-4c93-b882-9a613eefc75b)
