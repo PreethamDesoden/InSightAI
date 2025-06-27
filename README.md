@@ -19,11 +19,11 @@ The frontend is built using **Streamlit**, providing a visually interactive and 
 
 ## 📁 Requirements
 
-TensorFlow 
-Streamlit 
-Pillow 
-Plotly 
-streamlit-lottie 
+TensorFlow   
+Streamlit   
+Pillow   
+Plotly    
+streamlit-lottie   
 requests 
 
 ## 📦 How to Run
@@ -35,7 +35,6 @@ requests
 
 ## Screenshots
 
-![Image](https://github.com/user-attachments/assets/f176add2-b342-4365-9cec-b70c7a6c94c2)
 ![Image](https://github.com/user-attachments/assets/bf76ead6-ea91-47a9-a5a8-12d81bed7480)
 ![Image](https://github.com/user-attachments/assets/b323e050-9268-4fe7-98ed-686a3b3f7bfa)
 ![Image](https://github.com/user-attachments/assets/d16e982b-b8e4-4455-9483-bd82642b64e6)
@@ -47,6 +46,7 @@ requests
 ![Image](https://github.com/user-attachments/assets/88490ef5-3b4f-4aeb-b661-ea02dc9ed03c)
 ![Image](https://github.com/user-attachments/assets/aef5d31c-8729-4ae6-b2f4-e55b950c7723)
 ![Image](https://github.com/user-attachments/assets/a492090c-34d2-4dbc-be10-058f0bfcb002)
+![Image](https://github.com/user-attachments/assets/f176add2-b342-4365-9cec-b70c7a6c94c2)
 
 ## 📜 License
 
